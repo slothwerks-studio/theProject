@@ -22,8 +22,21 @@ One of the major struggles for new and aspiring developers is to build a portfol
 * Gauging project cost and time estimation
 * Creating a worthwhile, useful, well-oiled final product
 
-If this sounds of interest to you, [hit us up with an email](mailto:contact@slothwerks.com).  Alternatively, [visit us on Slack](https://join.slack.com/t/slothwerks-studio/shared_invite/enQtNTE2MTU0NTkwMDAzLTNkYzhlNGIwMTM2YWU2NWQ0ZWI1MmUxMDFkY2I0NGY3N2EzYmVjNjg2OTlhYmNhZjQwZTBlZDRkMzdiYzQxODQ) and join us at `#the-project`.
+If this sounds of interest to you, [hit us up with an email](mailto:contact@slothwerks.com).  Alternatively, visit us on [Slack](https://slack.com/) and join in on the conversation.
+
+## Join theProject team on Slack
+
+Slack can be somewhat challenging to navigate if you're unfamiliar with the platform.  Here's how to access SlothWerks' theProject Slack channel:
+
+* Download Slack for Windows, Mac, iOS, and/or Android.  You can get links and details on [Slack's website](https://get.slack.help/hc/en-us/sections/360000110123-Download-the-Slack-app).
+* Once installed on your device, [click on this link](https://join.slack.com/t/slothwerks-studio/shared_invite/enQtNTE2MTU0NTkwMDAzLTNkYzhlNGIwMTM2YWU2NWQ0ZWI1MmUxMDFkY2I0NGY3N2EzYmVjNjg2OTlhYmNhZjQwZTBlZDRkMzdiYzQxODQ) to join the SlothWerks Slack group.
+* Once in the SlothWerks Slack group, select "Channels"; this will show you a full list of available channels in the group.  In this case, you'll want to choose #the-project channel.
+* #the-project will appear in preview mode.  Click on "Join Channel" to complete the process.
+
+## Code of Conduct
 
 We're big fans of [Django Girls](https://djangogirls.org/) and even *bigger* fans of their [code of conduct](https://djangogirls.org/coc/).  While their COC is written specifically for their events, we will require all team members of theProject to adhere to its core principles.  __Code with Kindness!__
+
+## Markdown
 
 Curious why this document looks so nice?  [Learn markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  It's a beautiful thing.
