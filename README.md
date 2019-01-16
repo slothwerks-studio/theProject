@@ -35,7 +35,7 @@ If this sounds of interest to you, [hit us up with an email](mailto:contact@slot
 |Joseph Patrick|https://github.com/Jpatrick148|https://www.linkedin.com/in/joseph-patrick/|
 |Alex Rabideau|https://github.com/rabidale|https://www.linkedin.com/in/alexrabideau/|
 |Ramonda Saintandre|https://github.com/thenewmona|https://www.linkedin.com/in/ramona-saintandre/|
-Roger Winright| |https://www.linkedin.com/in/rwinright/|
+|Roger Winright|https://github.com/rwinright|https://www.linkedin.com/in/rwinright/|
 
 ## Join theProject team on Slack
 
