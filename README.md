@@ -24,6 +24,19 @@ One of the major struggles for new and aspiring developers is to build a portfol
 
 If this sounds of interest to you, [hit us up with an email](mailto:contact@slothwerks.com).  Alternatively, visit us on [Slack](https://slack.com/) and join in on the conversation.
 
+## theProject Team
+
+| Name | GitHub | LinkedIn |
+|:----:|:------:|:--------:|
+|Jonathan Deruiter|https://github.com/JonDeRuiter|https://www.linkedin.com/in/jonathan-deruiter/|
+|Sloth I|https://github.com/slothwerks-studio|https://www.linkedin.com/in/slothwerks/|
+|Katie Mollhagen| |https://www.linkedin.com/in/katie-mollhagen/|
+|Diane Nguyen| |https://www.linkedin.com/in/diane-does-dev/|
+|Joseph Patrick|https://github.com/Jpatrick148|https://www.linkedin.com/in/joseph-patrick/|
+|Alex Rabideau|https://github.com/rabidale|https://www.linkedin.com/in/alexrabideau/|
+|Ramonda Saintandre| |https://www.linkedin.com/in/ramona-saintandre/|
+Roger Winright| |https://www.linkedin.com/in/rwinright/|
+
 ## Join theProject team on Slack
 
 Slack can be somewhat challenging to navigate if you're unfamiliar with the platform.  Here's how to access SlothWerks' theProject Slack channel:
