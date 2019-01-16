@@ -31,10 +31,10 @@ If this sounds of interest to you, [hit us up with an email](mailto:contact@slot
 |Jonathan Deruiter|https://github.com/JonDeRuiter|https://www.linkedin.com/in/jonathan-deruiter/|
 |Sloth I|https://github.com/slothwerks-studio|https://www.linkedin.com/in/slothwerks/|
 |Katie Mollhagen| |https://www.linkedin.com/in/katie-mollhagen/|
-|Diane Nguyen| |https://www.linkedin.com/in/diane-does-dev/|
+|Diane Nguyen|https://github.com/d5nguyen|https://www.linkedin.com/in/diane-does-dev/|
 |Joseph Patrick|https://github.com/Jpatrick148|https://www.linkedin.com/in/joseph-patrick/|
 |Alex Rabideau|https://github.com/rabidale|https://www.linkedin.com/in/alexrabideau/|
-|Ramonda Saintandre| |https://www.linkedin.com/in/ramona-saintandre/|
+|Ramonda Saintandre|https://github.com/thenewmona|https://www.linkedin.com/in/ramona-saintandre/|
 Roger Winright| |https://www.linkedin.com/in/rwinright/|
 
 ## Join theProject team on Slack
