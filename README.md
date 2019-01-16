@@ -48,7 +48,7 @@ Slack can be somewhat challenging to navigate if you're unfamiliar with the plat
 
 ## Code of Conduct
 
-We're big fans of [Django Girls](https://djangogirls.org/) and even *bigger* fans of their [code of conduct](https://djangogirls.org/coc/).  While their COC is written specifically for their events, we will require all team members of theProject to adhere to its core principles.  __Code with Kindness!__
+theProject is a professional, respectful, and inclusive workspace.  __Code with Kindness!__  Violations of our [Code of Conduct](CODE_OF_CONDUCT.md) will be taken seriously.
 
 ## Markdown
 
