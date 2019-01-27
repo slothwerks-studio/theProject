@@ -26,16 +26,16 @@ If this sounds of interest to you, [hit us up with an email](mailto:contact@slot
 
 ## theProject Team
 
-| Name | GitHub | LinkedIn |
-|:----:|:------:|:--------:|
-|Jonathan Deruiter|https://github.com/JonDeRuiter|https://www.linkedin.com/in/jonathan-deruiter/|
-|Sloth I|https://github.com/slothwerks-studio|https://www.linkedin.com/in/slothwerks/|
-|Katie Mollhagen|https://github.com/kcmollhagen|https://www.linkedin.com/in/katie-mollhagen/|
-|Diane Nguyen|https://github.com/d5nguyen|https://www.linkedin.com/in/diane-does-dev/|
-|Joseph Patrick|https://github.com/Jpatrick148|https://www.linkedin.com/in/joseph-patrick/|
-|Alex Rabideau|https://github.com/rabidale|https://www.linkedin.com/in/alexrabideau/|
-|Ramonda Saintandre|https://github.com/thenewmona|https://www.linkedin.com/in/ramona-saintandre/|
-|Roger Winright|https://github.com/rwinright|https://www.linkedin.com/in/rwinright/|
+| Name | GitHub | LinkedIn | Role |
+|:----:|:------:|:--------:|:----:|
+|Jonathan Deruiter|https://github.com/JonDeRuiter|https://www.linkedin.com/in/jonathan-deruiter/||
+|Sloth I|https://github.com/slothwerks-studio|https://www.linkedin.com/in/slothwerks/||
+|Katie Mollhagen|https://github.com/kcmollhagen|https://www.linkedin.com/in/katie-mollhagen/|Project Manager|
+|Diane Nguyen|https://github.com/d5nguyen|https://www.linkedin.com/in/diane-does-dev/||
+|Joseph Patrick|https://github.com/Jpatrick148|https://www.linkedin.com/in/joseph-patrick/||
+|Alex Rabideau|https://github.com/rabidale|https://www.linkedin.com/in/alexrabideau/||
+|Ramonda Saintandre|https://github.com/thenewmona|https://www.linkedin.com/in/ramona-saintandre/||
+|Roger Winright|https://github.com/rwinright|https://www.linkedin.com/in/rwinright/||
 
 ## Join theProject team on Slack
 
