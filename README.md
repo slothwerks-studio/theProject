@@ -1,9 +1,8 @@
 # theProject
 ## What is the Project?
-The project is an open source community-driven full-stack application.  Ultimately, the core development team will dictate the project's scope; however, the initial concept is thus:
+The project is a community-driven full-stack application team.  Ultimately, the core development team will dictate project scope; however, the concept is thus:
 
-* A public repo, freely accessible to the public.
-* No definitive timeline for completion.
+* No definitive timelines for completion.
 * Two-week sprints, with goals dictated by what each team member can __reasonably__ accomplish during that timeframe.
 * *Robust documentation:*  on-boarding new team members merely consists of reading existing material.
 * *Intentional design:*  the project will be extremely well-defined prior to implementation of code.
